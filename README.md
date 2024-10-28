@@ -1,2 +1,3 @@
 # Uygulama Görseli
-![image](https://github.com/user-attachments/assets/ca01db9a-eb97-4a05-8102-6fa70746fae4)
+![image](https://github.com/user-attachments/assets/1fe95908-2252-4c61-a0c7-01bcabfefdf5)
+
